@@ -339,6 +339,11 @@ div p::after {
 /*********** tablet media query***********/
 
 @media (min-width: 635px) {
+	nav {
+		padding-top: 80px;
+		margin-top: 0;
+	}
+	
 	h1 {
 		max-width: 339px;
 	}

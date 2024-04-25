@@ -448,6 +448,7 @@ div p::after {
 	.heroRight {
 		right: -30px;
 		order: 3;
+		top: 55px;
 	}
 	
 	
